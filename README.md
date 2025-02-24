@@ -14,8 +14,8 @@ A **Telegram bot** that allows users to search for movies by **actors, genres, a
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/your-repo-name
-cd your-repo-name
+git clone https://github.com/gasanovdominik/bot
+cd bot
 
 ### 2️⃣ Install dependencies
 Install the required dependencies:
@@ -31,16 +31,18 @@ Edit config.ini:
 
 
 [TELEGRAM]
-TOKEN = YOUR_TELEGRAM_BOT_TOKEN
+TOKEN = 7903480173:AAHGN_WGifcJDawEFKMafGyyfieHybLIxoo
 
 [DATABASE]
-HOST = YOUR_DATABASE_HOST
-USER = YOUR_DATABASE_USER
-PASSWORD = YOUR_DATABASE_PASSWORD
-DBNAME = YOUR_DATABASE_NAME
+HOST = ich-db.ccegls0svc9m.eu-central-1.rds.amazonaws.com
+USER = ich1
+PASSWORD = password
+DBNAME = sakila
+
 ### 4️⃣ Run the bot
 
 python main.py
+
 ## 📌 Usage
 Start the bot by sending the /start command. The bot will present a menu with several options:
 
