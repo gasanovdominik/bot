@@ -30,10 +30,10 @@ cp config_example.ini config.ini
 Edit config.ini:
 
 
-[TELEGRAM]
-TOKEN = 7903480173:AAHGN_WGifcJDawEFKMafGyyfieHybLIxoo
+# [TELEGRAM]
+## TOKEN = 7903480173:AAHGN_WGifcJDawEFKMafGyyfieHybLIxoo
 
-[DATABASE]
+# [DATABASE]
 ## HOST = ich-db.ccegls0svc9m.eu-central-1.rds.amazonaws.com
 ## USER = ich1
 ## PASSWORD = password
