@@ -46,11 +46,11 @@ python main.py
 ## 📌 Usage
 Start the bot by sending the /start command. The bot will present a menu with several options:
 
-###🎲 Random Movie – Get a random movie suggestion.
-###🔎 Search by Actor – Enter an actor's name to find movies they starred in.
-###🎭 Search by Genre – Select a genre to browse movies.
-###📅 Search by Year – Enter a year to find movies released in that year.
-###📊 Popular Queries – View the most searched queries.
-###🌐 Change Language – Switch the bot's language between Russian, English, and German.
+### 🎲 Random Movie – Get a random movie suggestion.
+### 🔎 Search by Actor – Enter an actor's name to find movies they starred in.
+### 🎭 Search by Genre – Select a genre to browse movies.
+### 📅 Search by Year – Enter a year to find movies released in that year.
+### 📊 Popular Queries – View the most searched queries.
+### 🌐 Change Language – Switch the bot's language between Russian, English, and German.
 ## 📄 License
 MIT License. Feel free to use and modify.
