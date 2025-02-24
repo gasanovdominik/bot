@@ -51,4 +51,4 @@ Start the bot by sending the /start command. The bot will present a menu with se
 ### 📊 Popular Queries – View the most searched queries.
 ### 🌐 Change Language – Switch the bot's language between Russian, English, and German.
 ## 📄 License
-MIT License. Feel free to use and modify.
+### MIT License. Feel free to use and modify.
