@@ -23,11 +23,9 @@ Install the required dependencies:
 
 pip install -r requirements.txt
 ## 3️⃣ Configure the bot
-Copy the example configuration file and update it with your Telegram bot token and MySQL database credentials:
-
-
-cp config_example.ini config.ini
-Edit config.ini:
+### Copy the example configuration file and update it with your Telegram bot token and MySQL database credentials:
+### cp config_example.ini config.ini
+### Edit config.ini:
 
 
 ## [TELEGRAM]
