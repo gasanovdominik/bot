@@ -14,8 +14,8 @@ A **Telegram bot** that allows users to search for movies by **actors, genres, a
 
 ## 1️⃣ Clone the repository
 
-git clone https://github.com/gasanovdominik/bot
-cd bot
+# git clone https://github.com/gasanovdominik/bot
+# cd bot
 
 ## 2️⃣ Install dependencies
 Install the required dependencies:
