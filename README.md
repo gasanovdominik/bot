@@ -12,17 +12,17 @@ A **Telegram bot** that allows users to search for movies by **actors, genres, a
 
 ## 🛠️ Installation
 
-### 1️⃣ Clone the repository
+## 1️⃣ Clone the repository
 
 git clone https://github.com/gasanovdominik/bot
 cd bot
 
-### 2️⃣ Install dependencies
+## 2️⃣ Install dependencies
 Install the required dependencies:
 
 
 pip install -r requirements.txt
-### 3️⃣ Configure the bot
+## 3️⃣ Configure the bot
 Copy the example configuration file and update it with your Telegram bot token and MySQL database credentials:
 
 
@@ -34,10 +34,10 @@ Edit config.ini:
 TOKEN = 7903480173:AAHGN_WGifcJDawEFKMafGyyfieHybLIxoo
 
 [DATABASE]
-HOST = ich-db.ccegls0svc9m.eu-central-1.rds.amazonaws.com
-USER = ich1
-PASSWORD = password
-DBNAME = sakila
+### HOST = ich-db.ccegls0svc9m.eu-central-1.rds.amazonaws.com
+### USER = ich1
+### PASSWORD = password
+### DBNAME = sakila
 
 ### 4️⃣ Run the bot
 
