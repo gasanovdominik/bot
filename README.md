@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## 4️⃣ Run the bot
 
-python main.py
+### python main.py
 
 ## 📌 Usage
 Start the bot by sending the /start command. The bot will present a menu with several options:
