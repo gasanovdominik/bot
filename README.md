@@ -20,6 +20,10 @@ A **Telegram bot** that allows users to search for movies by **actors, genres, a
 ## 2️⃣ Install dependencies
 ### Install the required dependencies:
 ### pip install -r requirements.txt
+### pip install python-telegram-bot
+### pip install mysql-connector-python
+### pip install requests
+### pip install python-dotenv
 
 ## 3️⃣ Configure the bot
 ### Copy the example configuration file and update it with your Telegram bot token and MySQL database credentials:
