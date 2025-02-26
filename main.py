@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 from hands import (
     start, button_start, random_movie, search_actor, handle_actor_search,
     search_genre, handle_genre_search, search_year, handle_year_search,
-    popular_queries, change_language, set_language,  # Добавьте set_language сюда
+    popular_queries, change_language, set_language,  
     SEARCH_ACTOR, SEARCH_GENRE, SEARCH_YEAR
 )
 
